@@ -8,8 +8,8 @@ func main()  {
 	//lessons.LearnArrays()
 	//lessons.LearnConditionals();
 	//lessons.Loops()
-	lessons.Maps()
-
+	//lessons.Maps()
+	lessons.Ranges()
 
 	fmt.Println("--- the end ----")
 }
