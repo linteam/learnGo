@@ -6,7 +6,8 @@ import (
 func main()  {
 	fmt.Println("--- Hello ---")
 	//lessons.LearnArrays()
-	lessons.LearnConditionals();
+	//lessons.LearnConditionals();
+	lessons.Loops()
 
 
 	fmt.Println("--- the end ----")
