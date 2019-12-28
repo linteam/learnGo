@@ -12,7 +12,8 @@ func main()  {
 	//lessons.Ranges()
 	//lessons.LearnPointers()
 	//lessons.Closures()
-	lessons.Structs()
+	//lessons.Structs()
+	lessons.Interfaces()
 
 	fmt.Println("--- the end ----")
 }
