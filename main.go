@@ -13,7 +13,8 @@ func main()  {
 	//lessons.LearnPointers()
 	//lessons.Closures()
 	//lessons.Structs()
-	lessons.Interfaces()
+	//lessons.Interfaces()
+	lessons.WebSample()
 
 	fmt.Println("--- the end ----")
 }
