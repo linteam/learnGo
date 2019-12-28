@@ -11,7 +11,8 @@ func main()  {
 	//lessons.Maps()
 	//lessons.Ranges()
 	//lessons.LearnPointers()
-	lessons.Closures()
+	//lessons.Closures()
+	lessons.Structs()
 
 	fmt.Println("--- the end ----")
 }
