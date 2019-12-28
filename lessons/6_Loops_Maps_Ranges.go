@@ -41,6 +41,7 @@ func Maps(){
 	}
 }
 
+//Ranges ...
 func Ranges(){
 	ids := []int{33,54,54,34,12,43,54}
 	//Loop through ids

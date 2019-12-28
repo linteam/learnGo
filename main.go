@@ -9,7 +9,8 @@ func main()  {
 	//lessons.LearnConditionals();
 	//lessons.Loops()
 	//lessons.Maps()
-	lessons.Ranges()
+	//lessons.Ranges()
+	lessons.LearnPointers()
 
 	fmt.Println("--- the end ----")
 }
