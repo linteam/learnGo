@@ -10,7 +10,8 @@ func main()  {
 	//lessons.Loops()
 	//lessons.Maps()
 	//lessons.Ranges()
-	lessons.LearnPointers()
+	//lessons.LearnPointers()
+	lessons.Closures()
 
 	fmt.Println("--- the end ----")
 }
